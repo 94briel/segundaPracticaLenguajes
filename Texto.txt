@@ -1,0 +1,23 @@
+a = 5;
+x = 2;
+x = 42;
+int a = 4;
+if(a < 5){
+int a = 34;
+}
+while(true){
+double c = 2;
+}
+while(true){
+}
+int a =23       ;
+
+
+
+if(true){
+
+} else {
+
+
+}
+y = 23;
